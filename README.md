@@ -16,6 +16,8 @@ For more details, check out our [wiki](https://pojavlauncher.app/)!
 
 ## Important Notes
 
+* Note: There is fake [pojavlauncher website](https://pojavlauncherapp.com) It is not official, just a fan website, and does not include the original copyright.
+* This is a fork of the app, for original repository, please visit [here](https://github.com/PojavLauncherTeam/PojavLauncher)
 * We do not have an official TikTok account. No one from the dev team makes TikTok videos.
 * The official Twitter for PojavLauncher is [@PLaunchTeam](https://twitter.com/PLaunchTeam). Any others (most notably @PojavLauncher) are fake.
 
